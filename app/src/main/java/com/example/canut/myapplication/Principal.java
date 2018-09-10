@@ -29,7 +29,8 @@ public class Principal {
         numeros.add(3);
         numeros.add(4);
 
-        for(int i=0; i<numeros.size() ; i++){
+        for(int i=0; i   <
+                numeros.size() ; i++){
             int x = numeros.get(i);
             System.out.println(x);
 
